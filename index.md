@@ -1,5 +1,6 @@
-# My first Title of the Markdown
-## Title two
-###### Title Six
+# Inizializer virtual env with python
 
-![Image of the lucky Cyan](https://pin.it/3F6JBL6xY)
+### for Linux:
+```bash
+python3 -m venv .[name_of_virtual_env]
+```
