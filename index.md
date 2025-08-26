@@ -1,6 +1,9 @@
-# Inizializer virtual env with python
+# The task list
 
-### for Linux:
-```bash
-python3 -m venv .[name_of_virtual_env]
-```
+it's my first task list in github
+
+- [X] Clone repository of skills-communicate-using-makdown
+- [X] Add Headers
+- [X] Add Image
+- [X] Add simple code
+- [X] Create and complete task list
